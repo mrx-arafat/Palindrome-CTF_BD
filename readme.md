@@ -45,7 +45,7 @@ The solution is implemented in Python. Here's a step-by-step breakdown of the co
 
 On executing the code, it connects to the server, processes the strings, and communicates with the server to eventually retrieve the flag.
 
-### Conclusion:
+
 
 This challenge tests the participant's understanding of palindromes and their ability to implement an efficient solution to find the minimum number of changes required. The use of sockets adds an additional layer of complexity, making it a fun and educational challenge.
 

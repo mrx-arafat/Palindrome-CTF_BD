@@ -10,7 +10,6 @@ The challenge is about palindromes. For each query, a string is provided, and th
 - Flag Format: CTF_BD{}
 - Server: 45.76.177.238
 - Port: 5000
-- Total Queries: 1000
 
 ### Solution:
 
